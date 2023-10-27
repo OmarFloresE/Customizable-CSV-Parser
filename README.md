@@ -14,17 +14,18 @@ Getting Started
 To get started with the CSV Editor, follow these simple steps:
 
    1. Clone the Repository:
-bash
+      
+    bash
 
-git clone https://github.com/yourusername/csv-editor.git
+    git clone https://github.com/yourusername/csv-editor.git
 
-Install Dependencies:
+2. Install Dependencies:
 
-pip install PyQt5
+        pip install PyQt5
 
-Run the Application:
+3. Run the Application:
 
-    python csv_editor.py (the file in question)
+        python csv_editor.py (the file in question)
 
     Load and Customize CSV Data:
         Click the "Browse File" button to select a CSV file.
