@@ -13,9 +13,8 @@ Getting Started
 
 To get started with the CSV Editor, follow these simple steps:
 
-    Clone the Repository:
-
-    bash
+   1. Clone the Repository:
+bash
 
 git clone https://github.com/yourusername/csv-editor.git
 
